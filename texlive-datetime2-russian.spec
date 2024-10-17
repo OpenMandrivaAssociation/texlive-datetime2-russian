@@ -3,7 +3,7 @@ Version:	49345
 Release:	2
 Summary:	Russian language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-russian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-russian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-russian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-russian.doc.r%{version}.tar.xz
